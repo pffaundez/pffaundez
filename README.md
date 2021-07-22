@@ -5,6 +5,9 @@ My name is Pablo, but you can call me Polo.
 * Studying Data Science Path Career in [Codecademy](https://www.codecademy.com/profiles/poloFaundez) (Click to take a look in my profile).
 * Turning professionally towards Data Science.
 
+## //////PROFILE UNDER CONSTRUCTION////////
+Be patient. I will be uploading my projects and explorations.
+
 ## C O N T A C T
 - 📫 How to reach me: +56930560421 or pffaundez@uc.cl
 
