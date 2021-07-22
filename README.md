@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @pffaundez
-- 👀 I’m interested in Data Science, City, Jazz and Coffee.
-- 🌱 I’m currently learning CMS design and API's development.
-- 💞️ I’m looking to collaborate on Urban Data Science arrivals.
+# P O L O  /  P R O F I L E
+My name is Pablo, but you can call me Polo.
+
+* Currently working for Aconcagua Real Estate Company as Planning Data Analyst
+* Studying Data Science Path Career in [Codecademy](https://www.codecademy.com/profiles/poloFaundez) (Click to take a look in my profile).
+* Turning professionally towards Data Science.
+
+## C O N T A C T
 - 📫 How to reach me: +56930560421 or pffaundez@uc.cl
 
 <!---
