@@ -1,15 +1,15 @@
-# P O L O  /  P R O F I L E
+## P O L O  /  P R O F I L E
 My name is Pablo, but you can call me Polo.
 
 * Currently studying Master in Project Management and Data Science at HTW Berlin 
 * Working on Data Projects
 
-## W H A T  / I /  A M /  D O I N G?
+### W H A T  / I /  A M /  D O I N G?
 * SECOM Data Mining Project
 * OBETA Data Analysis Project
 
 ## W A N N A / R E A C H / M E / ?
-- 📫 pffaundez@uc.cl
+- 📫 pablo.faundez.gar@gmail.com
 - 💬 +49 1768 468 4024
 <p align="left">
 <a href="https://linkedin.com/in/pablo-faúndez-garcés-83009b95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-faúndez-garcés-83009b95" height="30" width="40" /></a>
