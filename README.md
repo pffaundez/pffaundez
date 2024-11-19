@@ -7,6 +7,7 @@ My name is Pablo, but you can call me Polo.
 ### I am currently working on:
 
 * ML/NLP Projects @ML_Alchemists_Berlin
+* Data Science Academic Assistant @HTW Berlin
 * Optimistic Runners
 
 ### Wanna reach me?
