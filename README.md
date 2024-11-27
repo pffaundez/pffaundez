@@ -11,6 +11,7 @@ My name is Pablo, but you can call me Polo.
 * Optimistic Runners
 
 ### I am currently learning about:
+* Semantic Search
 * Monitoring via MLFlow
 * Kubernetes
 
