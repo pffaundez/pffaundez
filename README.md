@@ -8,12 +8,11 @@ My name is Pablo, but you can call me Polo.
 
 * ML/NLP Projects @ML_Alchemists_Berlin
 * Data Science Academic Assistant @HTW Berlin
-* Optimistic Runners
 
 ### I am currently learning about:
 * Semantic Search
+* Knowledge Graphs
 * Monitoring via MLFlow
-* Kubernetes
 
 ### Wanna reach me?
 - 📫 pablo.faundez.gar@gmail.com
