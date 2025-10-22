@@ -2,20 +2,19 @@
 My name is Pablo, but you can call me Polo.
 
 * MSc in Project Management and Data Science at HTW Berlin 
-* Working on Data Science/MLE Projects.
 
 ### I am currently working on:
 
+* Research Fellow/LLMs @Uni-Paderborn
 * ML/NLP Projects @ML_Alchemists_Berlin
-* Data Science Academic Assistant @HTW Berlin
 
 ### I am currently learning about:
-* Semantic Search
+* Inclusive LLMs
+* Semantic Web
 * Knowledge Graphs
-* Monitoring via MLFlow
 
 ### Wanna reach me?
-- 📫 pablo.faundez.gar@gmail.com
+- 📫 pablo.faundez.gar@gmail.com / pablofg@uni-paderborn.de
 - 💬 +49 1768 468 4024
 <p align="left">
 <a href="https://www.linkedin.com/in/pablo-faundez-garces/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-faúndez-garcés-83009b95" height="30" width="40" /></a>
