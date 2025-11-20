@@ -5,7 +5,7 @@ My name is Pablo, but you can call me Polo.
 
 ### I am currently working on:
 
-* Research Fellow/LLMs @Uni-Paderborn
+* Research Fellow/LLMs and PhD Student @Uni-Paderborn
 * ML/NLP Projects @ML_Alchemists_Berlin
 
 ### I am currently learning about:
