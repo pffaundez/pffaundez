@@ -9,9 +9,9 @@ My name is Pablo, but you can call me Polo.
 * ML/NLP Projects @ML_Alchemists_Berlin
 
 ### I am currently learning about:
-* Inclusive LLMs
+* LLM Routing based on Preference Learning
+* Data Augmentation for Model Preference
 * Semantic Web
-* Knowledge Graphs
 
 ### Wanna reach me?
 - 📫 pablo.faundez.gar@gmail.com / pablofg@uni-paderborn.de
