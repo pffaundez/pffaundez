@@ -8,10 +8,9 @@ My name is Pablo, but you can call me Polo.
 * Research Fellow/LLMs and PhD Student @Uni-Paderborn
 * ML/NLP Projects @ML_Alchemists_Berlin
 
-### I am currently learning about:
-* LLM Routing based on Preference Learning
-* Data Augmentation for Model Preference
-* Semantic Web
+### I am currently researching about
+* LLM Routing based Knowledge
+* Joint Prompt-Model Routing
 
 ### Wanna reach me?
 - 📫 pablo.faundez.gar@gmail.com / pablofg@uni-paderborn.de
